@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nikhil
-- 👀 I’m interested in Machine Learning and Blockchain.
-- 🌱 I’m currently learning Data Science
+- 👀 I’m a MAchine Learning enthusiast skilled in Deep Learning and Computer Vision.
+- 🌱 I’m currently working on improving my skills and knowledge about Machine Learning.
 - 💞️ I’m looking to collaborate on Projects for future technologies
-- 📫 How to reach-nikhilshekhar2403@gmail.com
+- 📫 How to reach- nikhilshekhar2403@gmail.com
 
 <!---
 nikhil-js/nikhil-js is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
